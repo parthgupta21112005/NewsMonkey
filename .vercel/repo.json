@@ -1,0 +1,11 @@
+{
+  "remoteName": "origin",
+  "projects": [
+    {
+      "id": "prj_t7eBlQezsUv8VJZVgWkVosJLiFj5",
+      "name": "news-monkey",
+      "directory": ".",
+      "orgId": "team_BHRreW1TTW780EtBiCALPAxp"
+    }
+  ]
+}
